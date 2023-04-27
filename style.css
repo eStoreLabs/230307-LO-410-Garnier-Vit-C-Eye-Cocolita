@@ -20,6 +20,7 @@ body {
   overflow: hidden;
   color: #111;
   background: #fff;
+    max-width: 998px;
 }
 
 /*@media screen and (min-width: 768px) {
@@ -615,8 +616,8 @@ width: 40ch;
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
-
   background-color: #f3f3f3;
+
 }
 #es-garnier.es-garnier .es-results__title {
   text-align: left;
